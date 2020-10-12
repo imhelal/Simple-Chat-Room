@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Simple-Chat-Room/static/css/main.4d384d61.chunk.css",
+    "main.js": "/Simple-Chat-Room/static/js/main.dda965db.chunk.js",
+    "main.js.map": "/Simple-Chat-Room/static/js/main.dda965db.chunk.js.map",
+    "runtime-main.js": "/Simple-Chat-Room/static/js/runtime-main.6502a386.js",
+    "runtime-main.js.map": "/Simple-Chat-Room/static/js/runtime-main.6502a386.js.map",
+    "static/js/2.7aa0078b.chunk.js": "/Simple-Chat-Room/static/js/2.7aa0078b.chunk.js",
+    "static/js/2.7aa0078b.chunk.js.map": "/Simple-Chat-Room/static/js/2.7aa0078b.chunk.js.map",
+    "index.html": "/Simple-Chat-Room/index.html",
+    "precache-manifest.ea3f746d8cd5cfe4336277f258b58ae2.js": "/Simple-Chat-Room/precache-manifest.ea3f746d8cd5cfe4336277f258b58ae2.js",
+    "service-worker.js": "/Simple-Chat-Room/service-worker.js",
+    "static/css/main.4d384d61.chunk.css.map": "/Simple-Chat-Room/static/css/main.4d384d61.chunk.css.map",
+    "static/js/2.7aa0078b.chunk.js.LICENSE.txt": "/Simple-Chat-Room/static/js/2.7aa0078b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Simple-Chat-Room/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6502a386.js",
+    "static/js/2.7aa0078b.chunk.js",
+    "static/css/main.4d384d61.chunk.css",
+    "static/js/main.dda965db.chunk.js"
+  ]
+}
